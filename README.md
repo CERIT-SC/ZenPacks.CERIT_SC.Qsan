@@ -7,9 +7,10 @@ to monitor Qsan storage arrays.
 
 ## Installation
 
-You must first have, or install, Zenoss 3.1.0 or later. Core and Enterprise
-versions are supported. You can download the free Core version of Zenoss
-from <http://community.zenoss.org/community/download>.
+Requirements:
+
+* Zenoss 3.2 or later
+* [Advanced Device Details ZenPack](http://community.zenoss.org/docs/DOC-3452)
 
 ### Normal Installation (packaged egg)
 
