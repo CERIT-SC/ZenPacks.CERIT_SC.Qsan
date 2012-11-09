@@ -26,6 +26,14 @@ No prebuilt packages yet.
 
 ## Screenshots
 
+* Physical disks
+
 ![Physical Disks](https://raw.github.com/CERIT-SC/ZenPacks.CERIT_SC.Qsan/master/docs/screenshot1.png)
+
+* Virtual Disks
+
 ![Virtual Disks](https://raw.github.com/CERIT-SC/ZenPacks.CERIT_SC.Qsan/master/docs/screenshot2.png)
+
+* Device Overview
+
 ![Overview](https://raw.github.com/CERIT-SC/ZenPacks.CERIT_SC.Qsan/master/docs/screenshot3.png)
