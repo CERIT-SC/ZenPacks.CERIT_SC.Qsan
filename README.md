@@ -2,8 +2,8 @@
 
 ## About
 
-This is a [Zenoss](http://www.zenoss.com) extension (ZenPack) which allows
-to monitor Qsan storage arrays.
+This is a [Zenoss](http://www.zenoss.com) monitoring system extension (ZenPack)
+which allows to monitor Qsan storage arrays.
 
 ## Installation
 
@@ -25,3 +25,7 @@ No prebuilt packages yet.
 ## Usage
 
 ## Screenshots
+
+![Physical Disks](https://raw.github.com/CERIT-SC/ZenPacks.CERIT_SC.Qsan/master/docs/screenshot1.png)
+![Virtual Disks](https://raw.github.com/CERIT-SC/ZenPacks.CERIT_SC.Qsan/master/docs/screenshot2.png)
+![Overview](https://raw.github.com/CERIT-SC/ZenPacks.CERIT_SC.Qsan/master/docs/screenshot3.png)
